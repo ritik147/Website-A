@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    font-family:Bruno ace sc ;
+    color: white;
+    font-size:3rem;
+  }
+  #script{
+color: whitesmoke;
+font-size:1rem;
+font-family:Tapestry;
+  }
+div{
+    width: 50%;
+    margin-left: 25%;
+    text-transform: uppercase;
+    color:red;
+
+}
+img{
+    border:5px solid white;
+    width: 100%;
+}
+footer{
+  color: grey;
+
+}
